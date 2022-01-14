@@ -18,6 +18,8 @@ const Info = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: all .8s ease;
+  cursor: pointer;
 `;
 const Container = styled.div`
   flex: 1;
